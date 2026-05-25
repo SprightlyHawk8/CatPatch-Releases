@@ -1,0 +1,9 @@
+{
+  "latest_version": "0.0.4",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.4/CatPatch-0.0.4.zip",
+  "sha256": "PUT_HASH_HERE",
+  "changelog": [
+    "Added updater support",
+    "Improved spray handling"
+  ]
+}
