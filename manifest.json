@@ -1,6 +1,6 @@
 {
   "latest_version": "0.0.3",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.4/CatPatch-0.0.3.zip",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.3/CatPatch-0.0.3.zip",
   "sha256": "F49237825D83BB4454927DD7FCBBAD0B2C4FDDDC7F42AAD9607FAC331A4A5A4E",
   "changelog": [
     "Added updater support",
