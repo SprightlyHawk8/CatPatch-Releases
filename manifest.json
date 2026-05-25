@@ -1,7 +1,7 @@
 {
   "latest_version": "0.0.3",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.3/CatPatch-0.0.3.zip",
-  "sha256": "E3682B3EDAF175BBFB7EC4D323657A122E72DB616C2D4BF2740120A9A6F33D64",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.3/CatPatch-0.0.3.dll",
+  "sha256": "0118FBA29B47D6AE263F4E4F3FD4DD927C9E463EFD4B48621569A1813E1CC045",
   "changelog": [
     "Added updater support",
     "Improved spray handling"
