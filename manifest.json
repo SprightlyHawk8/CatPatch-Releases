@@ -5,7 +5,10 @@
   "package_type": "dll",
   "sha256": "13AD9C0B2DA67D93CA1E2EB05FAB88CAFD190EE555EF11F5AB718584F083EE4D",
   "changelog": [
-    "Added updater support",
-    "Improved spray handling"
+    "Added Auto updater (this screen yippee)",
+    "Full GIF support (I to inspect)",
+    "hugs no longer work with old versions because...",
+    "catpatch is now compatible with qol mod (we both were using the same network ID's)",
+    "no more press false to hug nonsense",
   ]
 }
