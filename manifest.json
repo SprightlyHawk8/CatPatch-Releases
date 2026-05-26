@@ -1,14 +1,13 @@
 {
-  "latest_version": "0.0.3",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.3/CatPatch.dll",
+  "latest_version": "0.0.4",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.4/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "13AD9C0B2DA67D93CA1E2EB05FAB88CAFD190EE555EF11F5AB718584F083EE4D",
+  "sha256": "706553DEFB84ADD14E57865A9B9E91DBD605AF3ABEC154263AF2730745EA1F81",
   "changelog": [
-    "Added Auto updater (this screen yippee)",
-    "Full GIF support (I to inspect)",
-    "hugs no longer work with old versions because...",
-    "catpatch is now compatible with qol mod (we both were using the same network ID's)",
-    "no more press false to hug nonsense",
+    "Fixed game not loading if you cannot connect to github servers",
+    "Added some more voicelines from the suggestions doc",
+    "If any problems arise let me know",
+    "Please for the love of god let this updater work",
   ]
 }
