@@ -5,7 +5,8 @@
   "package_type": "dll",
   "sha256": "331CB21E389AC6F899CCB8F9C89116A7309BF97678767CEDB862670B96D3DFE9",
   "changelog": [
-    "I am so sorry guys, i removed checking during games entirely in this patch",
-    "heres the update, it wont happen again i swear, check my thread in #general of the mp server for context"
+    "new alerts when people dont have the mod, reject key (j) configurable",
+    "auto-updater fixes, hug mood algorithm changes, qol compatibility",
+    "Planned: neck snapping, rejection dialogue, dogpile sleeping mood boost?"
   ]
 }
