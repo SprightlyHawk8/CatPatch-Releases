@@ -1,13 +1,17 @@
 {
-  "latest_version": "0.0.4",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.4/CatPatch.dll",
+  "latest_version": "0.0.5",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.5/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "706553DEFB84ADD14E57865A9B9E91DBD605AF3ABEC154263AF2730745EA1F81",
+  "sha256": "73ADACAC847239F95A776FB889B96679906D8E70809D8D1A50701ACE719DCB4E",
   "changelog": [
-    "Fixed game not loading if you cannot connect to github servers",
-    "Added some more voicelines from the suggestions doc",
-    "If any problems arise let me know",
-    "Please for the love of god let this updater work",
+    "the saga of horrible acronyms has run its course",
+    "new prompts for if host or players do not have the mod",
+    "hug mood boost algorithm altered to original catpatch",
+    "gave the reject key its own configurable keybind",
+    "planned:",
+    "necksnapping, better looking ui, special rejection lines,",
+    "dogpile sleeping together mood boost?",
+    "if any ideas lmk in my thread in #general of the mp server"
   ]
 }
