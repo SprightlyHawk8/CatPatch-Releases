@@ -1,12 +1,11 @@
 {
-  "latest_version": "0.0.4",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.4/CatPatch.dll",
+  "latest_version": "0.0.5",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.5/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "73ADACAC847239F95A776FB889B96679906D8E70809D8D1A50701ACE719DCB4E",
+  "sha256": "89B3DD4F148C7B8855E789629AA292546545238ADD33ADBD91CA312F89D0DFD9",
   "changelog": [
-    "I am so sorry guys",
-    "heres the update",
-    "it wont happen again i swear, check my thread in #general of the mp server for context"
+    "I am so sorry guys, i removed checking during games entirely in this patch",
+    "heres the update, it wont happen again i swear, check my thread in #general of the mp server for context"
   ]
 }
