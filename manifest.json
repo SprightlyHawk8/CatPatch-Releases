@@ -1,12 +1,12 @@
 {
-  "latest_version": "0.0.6",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.6/CatPatch.dll",
+  "latest_version": "0.0.7",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.7/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "17C982C561ABB2674063507751D29CEF0D04309ABE8F148C7C3681018716D4A1",
+  "sha256": "97067AE73EFCB686B1AB17FE18DBB0D1057E219C6B4CAFA86673643ED12AB848",
   "changelog": [
-    "sprays are now off by default for new people getting the mod",
-    "general optimizations/update and menu changes",
-    "Fixed sprays working in console and crafting menu",
+    "All clients now see hugs and shit",
+    "added secret keybind",
+    "...!",
   ]
 }
