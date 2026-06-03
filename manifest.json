@@ -3,7 +3,7 @@
   "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.7/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "97067AE73EFCB686B1AB17FE18DBB0D1057E219C6B4CAFA86673643ED12AB848",
+  "sha256": "0D5ECE2C3E760BEA3D51E9B24D958B6FAE8EC45F5DBCC5561B83BFD7050C7BB6",
   "changelog": [
     "All clients now see hugs and shit",
     "bugfixes",
