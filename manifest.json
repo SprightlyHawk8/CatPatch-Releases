@@ -1,11 +1,12 @@
 {
-  "latest_version": "0.0.7",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.7/CatPatch.dll",
+  "latest_version": "0.0.8",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.8/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "0D5ECE2C3E760BEA3D51E9B24D958B6FAE8EC45F5DBCC5561B83BFD7050C7BB6",
+  "sha256": "9073564E87FD54B1FE17B54249C92BBE9F1A0BBA57DC1A1D09C9A9324862D4A8",
   "changelog": [
-    "All clients now see hugs and shit",
-    "bugfixes",
+    "Tested for maybe 5 min",
+    "unfinished dogpile feature added to host menu ig (sliders bc i havent even figured out the spacing yet lmao)",
+    "lmk if something breaks lol (it probably will)",
   ]
 }
