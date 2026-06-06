@@ -1,12 +1,11 @@
 {
-  "latest_version": "0.0.8",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.8/CatPatch.dll",
+  "latest_version": "0.0.9",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.9/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "9073564E87FD54B1FE17B54249C92BBE9F1A0BBA57DC1A1D09C9A9324862D4A8",
+  "sha256": "ACC34A32A87352D89947FCCB3327B7753AE2FA42C7CAE61964671D253759399C",
   "changelog": [
-    "Tested for maybe 5 min",
-    "unfinished dogpile feature added to host menu ig (sliders bc i havent even figured out the spacing yet lmao)",
-    "lmk if something breaks lol (it probably will)",
+    "Added Meow's challenge in the host options",
+    "fixed bugs and made some nice qol change",
   ]
 }
