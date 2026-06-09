@@ -1,11 +1,15 @@
 {
-  "latest_version": "0.0.9",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.0.9/CatPatch.dll",
+  "latest_version": "0.1.0",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.1.0/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "ACC34A32A87352D89947FCCB3327B7753AE2FA42C7CAE61964671D253759399C",
+  "sha256": "C7E8E1263295B910FC92236EF414AF8A23D677BABC31315908A271B81C6AB44C",
   "changelog": [
-    "Added Meow's challenge in the host options",
-    "fixed bugs and made some nice qol change",
+    "added emotes",
+    "made clients joining hosts without the mod more compatible probably",
+    "lmk if this shit doesnt work or if there is any suggestions you have",
+    "i do NOT playtest my shit so its up to yall :3",
+    "but also keep in mind that the multiplayer mod is jank as shit",
+    "which is why i don't playtest lol, i don't know how you guys pull through",
   ]
 }
