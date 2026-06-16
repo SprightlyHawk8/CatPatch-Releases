@@ -1,15 +1,15 @@
 {
-  "latest_version": "0.1.0",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v0.1.0/CatPatch.dll",
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.0/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "C7E8E1263295B910FC92236EF414AF8A23D677BABC31315908A271B81C6AB44C",
+  "sha256": "EBF09D7717E82E9CA3861C38EE12EA1362B1CA946712969FEF168FD9DCCFB2C6",
   "changelog": [
-    "added emotes",
-    "made clients joining hosts without the mod more compatible probably",
-    "lmk if this shit doesnt work or if there is any suggestions you have",
-    "i do NOT playtest my shit so its up to yall :3",
-    "but also keep in mind that the multiplayer mod is jank as shit",
-    "which is why i don't playtest lol, i don't know how you guys pull through",
+    "This is a HUGE update. WE SKIPPING STRAIGHT TO 1.0.0 BABY WOOOOOOOOOOOOOOOOOOOO",
+    "Added a HOST MODERATION menu from Gary's catpatch mod. Start a server and access it on the left panel",
+    "Moved a TON of shit in there.",
+    "You can now DOWNLOAD SPRAYS ON INSPECT (Everyone thank vega for the idea)",
+    "Spray cooldown now works as its intended to.",
+    "I HAVE A DISCORD FOR SUGGESTIONS, GO CHECK THE CP BUTTON",
   ]
 }
