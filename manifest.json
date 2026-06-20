@@ -1,15 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.0/CatPatch.dll",
+  "latest_version": "1.0.1",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.1/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "EBF09D7717E82E9CA3861C38EE12EA1362B1CA946712969FEF168FD9DCCFB2C6",
+  "sha256": "234D5B1602D477F5F449C90E90EC889C31D2EE82E80580FE6838CC9DDC8E8C87",
   "changelog": [
-    "This is a HUGE update. WE SKIPPING STRAIGHT TO 1.0.0 BABY WOOOOOOOOOOOOOOOOOOOO",
-    "Added a HOST MODERATION menu from Gary's catpatch mod. Start a server and access it on the left panel",
-    "Moved a TON of shit in there.",
-    "You can now DOWNLOAD SPRAYS ON INSPECT (Everyone thank vega for the idea)",
-    "Spray cooldown now works as its intended to.",
-    "I HAVE A DISCORD FOR SUGGESTIONS, GO CHECK THE CP BUTTON",
+    "sloppy fix for mp 4.0.0",
+    "will polish soon",
   ]
 }
