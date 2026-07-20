@@ -7,6 +7,7 @@
   "changelog": [
 "added some commands arguements for team based servers and arguements for dead and alive players (ex: tp @white curser teleports players colored white)",
 "added extended options for base game run settings for armor values (hopefully this doesnt break custom run settings fingers crossed)",
+        "(you are very welcome random pvp server, thank you thehungryfox and others on the team for the suggestions)",
 "fixed cp button covering run settings menu",
 "added an announcement for when i join servers lol",
 "push players when they are shooting themselves to stop their suicide attempt",
