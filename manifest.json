@@ -1,10 +1,12 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.3/CatPatch.dll",
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.4/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "26031BC4C3163364790B212D048ACB601E6D071353022A8B88D5A5DAF842A6C5",
+  "sha256": "ED1920F44E76FA4B142A97CF18DFF54796D4235349200B8D710F3FC3AF280308",
   "changelog": [
+    "1.0.4 - i fucked up and kept in test keybinds for killing yourself, thank you infectious_woofers for bringing this to my attention :sob:",
+    "1.0.3 - changelog:",
 "added some commands arguements for team based servers and arguements for dead and alive players (ex: tp @white curser teleports players colored white)",
 "added extended options for base game run settings for armor values (hopefully this doesnt break custom run settings fingers crossed)",
         "(you are very welcome random pvp server, thank you thehungryfox and others on the team for the suggestions)",
