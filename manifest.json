@@ -5,9 +5,11 @@
   "package_type": "dll",
   "sha256": "26031BC4C3163364790B212D048ACB601E6D071353022A8B88D5A5DAF842A6C5",
   "changelog": [
-    "added some color commands for team based servers",
-    "fixed cp button showing in run settings menu",
-    "added an announcement for when i join servers lol",
-    "added gun suicide so everyone can see it",
+"added some commands arguements for team based servers and arguements for dead and alive players (ex: tp @white curser teleports players colored white)",
+"added extended options for base game run settings for armor values (hopefully this doesnt break custom run settings fingers crossed)",
+"fixed cp button covering run settings menu",
+"added an announcement for when i join servers lol",
+"push players when they are shooting themselves to stop their suicide attempt",
+"fixed mp bug where gun suicide was not shown to everyone",
   ]
 }
