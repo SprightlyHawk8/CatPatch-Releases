@@ -1,12 +1,13 @@
 {
-  "latest_version": "1.0.2",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.2/CatPatch.dll",
+  "latest_version": "1.0.3",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.3/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "5A94F1AB51C44234C4A72ACF8FE6FEFB53B9F8968DF1B8CE120CC0ED3921FA70",
+  "sha256": "26031BC4C3163364790B212D048ACB601E6D071353022A8B88D5A5DAF842A6C5",
   "changelog": [
-    "added the ability to stop people from hurting themselves",
-    "added the ability to throw people with a simple slider, might make it strength related",
-    "overhauled the meows final challenge menu",
+    "added some color commands for team based servers",
+    "fixed cp button showing in run settings menu",
+    "added an announcement for when i join servers lol",
+    "added gun suicide so everyone can see it",
   ]
 }
