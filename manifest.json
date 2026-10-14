@@ -1,18 +1,14 @@
 {
-  "latest_version": "1.0.4",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.4/CatPatch.dll",
+  "latest_version": "1.0.6",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.6/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "ED1920F44E76FA4B142A97CF18DFF54796D4235349200B8D710F3FC3AF280308",
+  "sha256": "079D8953744F52C9572A0AFF1E163F516E3A0DB21D8D61280D32769AC6B8BBFF",
   "changelog": [
-    "1.0.4 - i fucked up and kept in test keybinds for killing yourself, thank you infectious_woofers for bringing this to my attention :sob:",
-    "1.0.3 - changelog:",
-"added some commands arguements for team based servers and arguements for dead and alive players (ex: tp @white curser teleports players colored white)",
-"added extended options for base game run settings for armor values (hopefully this doesnt break custom run settings fingers crossed)",
-        "(you are very welcome random pvp server, thank you thehungryfox and others on the team for the suggestions)",
-"fixed cp button covering run settings menu",
-"added an announcement for when i join servers lol",
-"push players when they are shooting themselves to stop their suicide attempt",
-"fixed mp bug where gun suicide was not shown to everyone",
+    "Sloppy update to 5.0 lol",
+    "im like in the middle of my electrical engineering degree, its hard",
+    "sorry to people having to close this menu who downgraded to v4 of mp",
+    "i doubt moderation works in the host moderation menu, lmk if it does.",
+    "I love you, mwah <3",
   ]
 }
