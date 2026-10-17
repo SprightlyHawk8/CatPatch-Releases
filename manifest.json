@@ -1,14 +1,12 @@
 {
-  "latest_version": "1.0.6",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.6/CatPatch.dll",
+  "latest_version": "1.0.7",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.7/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "079D8953744F52C9572A0AFF1E163F516E3A0DB21D8D61280D32769AC6B8BBFF",
+  "sha256": "180F1CF14E450A63240A96966D091961C1432981A02F9FFCB201157FCBEDE6F1",
   "changelog": [
-    "Sloppy update to 5.0 lol",
-    "im like in the middle of my electrical engineering degree, its hard",
+    "Dune (Our hero and the other mp dev) took a look at my dogshit code and made it slightly less dogshit",
+    "It should be much more efficient than before, (they call me the toby fox of C:U)",
     "sorry to people having to close this menu who downgraded to v4 of mp",
-    "i doubt moderation works in the host moderation menu, lmk if it does.",
-    "I love you, mwah <3",
   ]
 }
