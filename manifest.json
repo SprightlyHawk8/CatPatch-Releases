@@ -1,12 +1,11 @@
 {
-  "latest_version": "1.0.8",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.8/CatPatch.dll",
+  "latest_version": "1.0.9",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.0.9/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "5A6DBF76A3D3433ED652E21F6EA79F183610C5215902C8E255A946E8E4072610",
+  "sha256": "77D82C3EDA3A37B8602CF3559D3208EBC957BF0C4EDF958D530A8E33F994DCD3",
   "changelog": [
-    "I made it so commands make sense, check the catpatch button for more details",
-    "I also fixed the bug where the self harm stopper wasnt working",
-    "uh yeah lol",
+    "fixed spray gifs",
+    "made spray selection larger and adjustable in the cp button menu",
   ]
 }
