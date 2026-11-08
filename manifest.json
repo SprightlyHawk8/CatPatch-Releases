@@ -9,5 +9,6 @@
     "made it so menus now capture input, no more accidently closing the game after pressing \"later\"",
     "increased dogpile radius by 3 (ur welcome katy)",
     "gave riot helmet and lantern as items in meows final challenge",
+    "removed broken host transfer system",
   ]
 }
