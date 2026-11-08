@@ -3,12 +3,13 @@
   "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.1.0/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "2DEE939540C974CFF03E750BA03C108849EE110AC689ECE1729E36D31C02B931",
+  "sha256": "",
   "changelog": [
     "For all of the people who cannot connect to Gary's backend, a steam fallback has been added, thanks voxeles",
     "made it so menus now capture input, no more accidently closing the game after pressing \"later\"",
     "increased dogpile radius by 3 (ur welcome katy)",
     "gave riot helmet and lantern as items in meows final challenge",
     "removed broken host transfer system",
+    "Also the auto updater got got, have to use nexus now",
   ]
 }
