@@ -3,7 +3,7 @@
   "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.1.0/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "831E95F80573C9C408D07DCFD856A707EFB4E14322F0DD8E46FB6074155ABD70",
+  "sha256": "1ABDDA43832251818C1F4E200BC35B78B16F6FBBD5885378C83B0B19007AC819",
   "changelog": [
     "For all of the people who cannot connect to Gary's backend, a steam fallback has been added, thanks voxeles",
     "made it so menus now capture input, no more accidently closing the game after pressing \"later\"",
