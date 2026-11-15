@@ -1,12 +1,13 @@
 {
-  "latest_version": "1.1.0",
-  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.1.0/CatPatch.dll",
+  "latest_version": "1.1.2",
+  "download_url": "https://github.com/SprightlyHawk8/CatPatch-Releases/releases/download/v1.1.2/CatPatch.dll",
   "file_name": "CatPatch.dll",
   "package_type": "dll",
-  "sha256": "FC1976F272333754C5ECCA5648E1973B8E677DF6D8B709A169B760C4BC8B7243",
+  "sha256": "6A394AB22287EC977362C431BE9905D29FEA16600DE54F2907049254FEDBFD32",
   "changelog": [
     "IF YOU ARE ON THE DEMO DO NOT UPDATE",
     "btw i got an auto updater if you join the discord",
+    "Next update will give you a prompt to my github to grab the dll itself to bypass nexus",
     "ive removed hugging and made the removed the no compressed png thing go away",
     "I want to get a host transfer system in place so runs can keep going without the host so ill be working on that",
   ]
